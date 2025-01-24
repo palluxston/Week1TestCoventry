@@ -1,0 +1,25 @@
+{
+  "name": "week1testcoventry",
+  "version": "1.0.0",
+  "description": "First week 1 project for node and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palluxston/Week1TestCoventry.git"
+  },
+  "author": "Pyae Sonethant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palluxston/Week1TestCoventry/issues"
+  },
+  "homepage": "https://github.com/palluxston/Week1TestCoventry#readme",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^13.0.1",
+    "router": "^1.3.8"
+  }
+}
