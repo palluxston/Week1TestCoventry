@@ -1,0 +1,23 @@
+{
+  "name": "week1testcoventry",
+  "version": "1.0.0",
+  "description": "This is the test for my school work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palluxston/Week1TestCoventry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palluxston/Week1TestCoventry/issues"
+  },
+  "homepage": "https://github.com/palluxston/Week1TestCoventry#readme",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-router": "^13.0.1"
+  }
+}
